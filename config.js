@@ -2,11 +2,11 @@
 
 const config = {};
 
-config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/arqtras/turtlecoin-nodes-json/master/turtlecoin-nodes.json';
+config.networkNodeListJSONurl = './arqma-nodes.json';
 
 config.serverHost = '0.0.0.0';
 
-config.serverPort = 8080;
+config.serverPort = 8050;
 
 config.networkNodeTimeout = 10;
 
@@ -14,7 +14,7 @@ config.statsUpdateInterval = 15;
 
 config.nodeTTL = 3600;
 
-config.rpcPort = 19994;
+config.rpcPort = 39994;
 
 config.queueReseedDelay = 60;
 

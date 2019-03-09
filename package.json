@@ -16,7 +16,7 @@
     "geoip-lite": "1.3.2",
     "npm": "^6.4.1",
     "request": "^2.88.0",
-    "turtlecoin-rpc": "^0.7.0"
+    "arqma-rpc": "git://github.com/muscleman/arqma-rpc.git"
   },
   "devDependencies": {
     "eslint": "^5.6.1",
