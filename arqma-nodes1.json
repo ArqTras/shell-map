@@ -17,18 +17,6 @@
       "url": "139.99.106.122",
       "port": 19994,
       "ssl": false
-    },
-    {
-      "name": "'test.supportarqma.com' public node",
-      "url": "37.247.209.235",
-      "port": 29994,
-      "ssl": false
-    },
-    {
-      "name": "'map.supportcryptonight.com' public node",
-      "url": "51.38.99.79",
-      "port": 19994,
-      "ssl": false
     }
   ]
 }

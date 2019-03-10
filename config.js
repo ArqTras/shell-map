@@ -18,7 +18,7 @@ config.rpcPort = 19994;
 
 config.queueReseedDelay = 60;
 
-config.dnsServers = ['8.8.8.8', '8.8.4.4'];
+config.dnsServers = ['1.1.1.1', '8.8.8.8'];
 
 config.logging = {
   files: {
