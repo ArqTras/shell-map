@@ -3,7 +3,7 @@
     {
       "name": "'arqma.smartcoinpool.net' public node",
       "url": "arqma.smartcoinpool.net",
-      "port": 39994,
+      "port": 19994,
       "ssl": false
     }
   ]
