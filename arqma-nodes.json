@@ -1,8 +1,20 @@
 {
   "nodes": [
     {
-      "name": "'arqma.smartcoinpool.net' public node",
-      "url": "arqma.smartcoinpool.net",
+      "name": "'us.supportarqma.com' public node",
+      "url": "us.supportarqma.com",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'eu.supportarqma.com' public node",
+      "url": "us.supportarqma.com",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'jp.supportarqma.com' public node",
+      "url": "jp.supportarqma.com",
       "port": 19994,
       "ssl": false
     }
