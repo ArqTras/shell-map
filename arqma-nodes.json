@@ -1,14 +1,32 @@
 {
   "nodes": [
     {
-      "name": "'us.supportarqma.com' public node",
+      "name": "'seed' public node",
       "url": "144.217.242.16",
       "port": 19994,
       "ssl": false
     },
     {
-      "name": "'eu.supportarqma.com' public node",
+      "name": "'seed1' public node",
       "url": "77.103.229.42",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'seed2' public node",
+      "url": "207.244.120.39",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'seed3' public node",
+      "url": "92.222.70.207",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'seed4' public node",
+      "url": "77.93.206.170",
       "port": 19994,
       "ssl": false
     },
@@ -19,11 +37,12 @@
       "ssl": false
     },
     {
-      "name": "'test.supportarqma.com' public node",
-      "url": "37.247.209.235",
-      "port": 29994,
+      "name": "'seed5' public node",
+      "url": "51.15.50.83",
+      "port": 19994,
       "ssl": false
     },
+
     {
       "name": "'map.supportcryptonight.com' public node",
       "url": "51.38.99.79",
