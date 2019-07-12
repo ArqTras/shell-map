@@ -4,50 +4,62 @@
       "name": "'seed' public node",
       "url": "144.217.242.16",
       "port": 19994,
-      "ssl": false
+      "ssl": true
     },
     {
       "name": "'seed1' public node",
       "url": "77.103.229.42",
       "port": 19994,
-      "ssl": false
+      "ssl": true
     },
     {
       "name": "'seed2' public node",
       "url": "207.244.120.39",
       "port": 19994,
-      "ssl": false
+      "ssl": true
     },
     {
       "name": "'seed3' public node",
       "url": "92.222.70.207",
       "port": 19994,
-      "ssl": false
+      "ssl": true
     },
     {
       "name": "'seed4' public node",
       "url": "77.93.206.170",
       "port": 19994,
-      "ssl": false
+      "ssl": true
     },
     {
       "name": "'jp.supportarqma.com' public node",
       "url": "139.99.106.122",
       "port": 19994,
-      "ssl": false
+      "ssl": true
     },
     {
       "name": "'seed5' public node",
       "url": "51.15.50.83",
       "port": 19994,
-      "ssl": false
+      "ssl": true
+    },
+    {
+      "name": "'seed6' public node",
+      "url": "86.136.149.253",
+      "port": 19994,
+      "ssl": true
+    },
+    {
+      "name": "'localhost' public node",
+      "url": "127.0.0.1",
+      "port": 19994,
+      "ssl": true
     },
 
     {
       "name": "'map.supportcryptonight.com' public node",
       "url": "51.38.99.79",
       "port": 19994,
-      "ssl": false
+      "ssl": true
     }
   ]
 }

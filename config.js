@@ -22,7 +22,7 @@ config.dnsServers = ['1.1.1.1', '8.8.8.8'];
 
 config.logging = {
   files: {
-    level: 'info',
+    level: 'error',
     directory: 'logs',
     flushInterval: 5
   },
