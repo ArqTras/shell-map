@@ -8,25 +8,25 @@
     },
     {
       "name": "'seed1' public node",
-      "url": "77.103.229.42",
+      "url": "node1.arqma.com",
       "port": 19994,
       "ssl": true
     },
     {
       "name": "'seed2' public node",
-      "url": "207.244.120.39",
+      "url": "node2.arqma.com",
       "port": 19994,
       "ssl": true
     },
     {
       "name": "'seed3' public node",
-      "url": "92.222.70.207",
+      "url": "node3.arqma.com",
       "port": 19994,
       "ssl": true
     },
     {
       "name": "'seed4' public node",
-      "url": "77.93.206.170",
+      "url": "node4.arqma.com",
       "port": 19994,
       "ssl": true
     },
